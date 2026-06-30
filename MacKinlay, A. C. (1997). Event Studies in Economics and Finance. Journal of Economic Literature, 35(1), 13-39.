@@ -1,0 +1,22 @@
+MacKinlay, A. C. (1997). Event Studies in Economics and Finance. Journal of Economic Literature, 35(1), 13-39.
+https://www.bu.edu/econ/files/2011/01/MacKinlay-1996-Event-Studies-in-Economics-and-Finance.pdf
+
+Look Page 17: 
+
+
+
+With the announcements categorized,
+the next step is to specify the parameters
+of the empirical design to analyze the equity return, i.e., the percent change in
+value of the equity. It is necessary to
+specify a length of observation interval,
+an event window, and an estimation window. For this example the interval is set
+to one day, thus daily stock returns are
+used. A 41-day event window is employed, comprised of 20 pre-event days,
+the event day, and 20 post-event days.
+For each announcement the 250 trading
+day period prior to the event window is
+used as the estimation window. After
+presenting the methodology of an event
+study, this example will be drawn upon
+to illustrate the execution of a study.
