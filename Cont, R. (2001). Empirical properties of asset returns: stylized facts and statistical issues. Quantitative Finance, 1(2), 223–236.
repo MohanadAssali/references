@@ -2,3 +2,4 @@ Cont, R. (2001). Empirical properties of asset returns: stylized facts and stati
 https://www.tandfonline.com/doi/abs/10.1080/713665670
 
 
+ Cont explicitly flags that the "absence of autocorrelation" breaks down on high-frequency intraday intervals (20 minutes) due to market microstructure. This justifies your use of continuous Brownian mechanics for modeling the immediate structural expansion phase after an auction shock.
